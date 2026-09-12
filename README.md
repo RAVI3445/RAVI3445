@@ -2,7 +2,7 @@
 🔭 I'm currently working on improving my **C programming and problem-solving skills**<br>- 🌱 I'm currently learning **C, Data Structures & Algorithms, Git and GitHub**<br>- 🤖 I'm interested in **Robotics, Embedded Systems, Automation and VLSI**<br>- 🧠 I regularly practice algorithmic and logical problems<br>- 👯 I'm interested in collaborating on **beginner-friendly C, robotics and embedded projects**<br>- 🎯 My goal is to develop strong foundations in both **software and hardware engineering**<br>- ⚡ I enjoy understanding how code can control and interact with real-world systems<br>
 
 
-## 🌐 Socials:
+
 ### 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhav__2007-)
